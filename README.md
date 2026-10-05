@@ -4,7 +4,7 @@ An end-to-end FinTech Fraud Analytics project focused on analyzing financial tra
 
 ## 📊 Dashboard Preview
 
-![Fintech Fraud Analytics Dashboard](Dashboard/fintech_fraud_dashboard.png)
+![Fintech Fraud Analytics Dashboard](Dashboard/Screenshot (187).png)
 
 ## 🎯 Project Objective
 
